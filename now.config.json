@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_3d_glb_viewe",
+  "scopeId": "921a15a5871676103f91ed740cbb35fb",
+  "name": "3d Glb Viewe",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
